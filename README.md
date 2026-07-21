@@ -2,8 +2,6 @@
 
 An end-to-end robotic fruit-sorting system built with a **Quanser QArm 4-DOF manipulator** and an **Intel RealSense D415 RGB-D camera**. The system combines classical computer vision, camera-to-robot calibration, forward/inverse kinematics, time-parameterised motion, and a finite-state controller to sort bananas, tomatoes, and strawberries on physical hardware.
 
-> University of Birmingham | Applied Robotics (04 39984) | 2025–2026<br>
-> Team: Piero Flores, Zihen Huang, Ran Zhang, Yichang Chao
 
 ## Project Overview
 
